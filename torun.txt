@@ -1,0 +1,16 @@
+HOW TO RUN — Graph ML Fraud Ring Detection
+==========================================
+
+1. Install dependencies:
+       pip install -r requirements.txt
+
+2. Generate the synthetic transaction graph (with planted fraud rings):
+       python3 src/generate_graph.py
+
+3. Detect rings + compare graph features vs tabular-only classification:
+       python3 src/detect.py
+
+Output:
+   reports/results.json  — ring-detection precision/recall + classifier metrics
+
+Or just run everything:  ./run.sh
