@@ -69,3 +69,6 @@ structural features end-to-end.
 ```bash
 ./run.sh        # or see torun.txt
 ```
+
+## 👤 Author
+**Suneeth Reddy Peddamallu** — [GitHub](https://github.com/Suneeth12) • [Portfolio](https://suneeth.live) • [LinkedIn](https://linkedin.com/in/suneeth-reddy-peddamallu)
